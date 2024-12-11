@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    width: 100vh;
+}
+#rr {
+    height: 100px;
+    width: 250px;
+    background: gray;
+    display: flex;
+    justify-content: center;
+}
+#text {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
